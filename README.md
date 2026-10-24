@@ -10,7 +10,7 @@
 ✨🌟✨🌟✨🌟🌑🌘🌗🌖🌕🌔🌓🌒🌟✨🌟✨🌟✨🌟✨🌟✨🌟
 <br>
 🪷Hola soy 🙋🏻‍♀️ Lunita 👩🏻‍💻 Analista de Sistemas y Business Inteligent<br>🔭 Actualmente  buscando oportunidades<br>🌱 Estoy  aprendiendo y  incorporando 🌎Ciencia de Datos<br>⚡ Actualmente  haciendo el Curso  Business Intelligent:<br>       🔶Google Sheeps  y Data Studio📈📊
-<div moon = "right">
+<div align = "right">
 !![TclLoveGIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JtYXNzajVzMHZ3NmUwaWQ4YWFpNjRzc3I0YTU5cXExMDM3ZmkweiZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/YrIq06kG5yrtxQEhj3/giphy.gif)
 </div>
 
