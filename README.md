@@ -1,6 +1,7 @@
 ![imagen alt](https://github.com/lunita2025/lunita2025/blob/ee3a565246d48db493a7cce1d7168e5388d9ce51/Banner%20con%20luna%20(4).png)
- 
- ¡ HOLA SOY LUNITA...🌝.👋!![TclLoveGIF](https://github.com/user-attachments/assets/d5436b56-be1c-419a-babc-74f6f3f012f8)
+ <h1 align="center">🌙HOLA SOY  LUNITA 🌝.👋</h1>
+
+ !![TclLoveGIF](https://github.com/user-attachments/assets/d5436b56-be1c-419a-babc-74f6f3f012f8)
 
 # 💫 About Me:
 ✨🌟✨🌟✨🌟🌑🌘🌗🌖🌕🌔🌓🌒🌟✨🌟✨🌟✨🌟✨🌟✨🌟<br>🪷Hola soy 🙋🏻‍♀️ Lunita 👩🏻‍💻 Analista de Sistemas y Business Inteligent<br>🔭 Actualmente  buscando oportunidades<br>🌱 Estoy  aprendiendo y  incorporando 🌎Ciencia de Datos<br>⚡ Actualmente  haciendo el Curso  Business Intelligent:<br>       🔶Google Sheeps  y Data Studio📈📊
