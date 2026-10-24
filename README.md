@@ -1,5 +1,5 @@
 
- ![Fondo del proyecto](https://github.com/lunita2025/lunita2025/blob/ee3a565246d48db493a7cce1d7168e5388d9ce51/Banner%20con%20luna%20(4).png))
+ ![Fondo del proyecto](https://github.com/lunita2025/lunita2025/blob/ee3a565246d48db493a7cce1d7168e5388d9ce51/Banner%20con%20luna%20(4).png)
  <h1 align="center">🌟✨✨✨✨🌙HOLA SOY  LUNITA 🌝.👋✨✨✨✨✨✨✨✨</h1>
 <div align="center">
   
