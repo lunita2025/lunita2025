@@ -4,8 +4,11 @@
   
  !![TclLoveGIF](https://github.com/user-attachments/assets/d5436b56-be1c-419a-babc-74f6f3f012f8)
 </div>
+
 # 💫 About Me:
-✨🌟✨🌟✨🌟🌑🌘🌗🌖🌕🌔🌓🌒🌟✨🌟✨🌟✨🌟✨🌟✨🌟<br>🪷Hola soy 🙋🏻‍♀️ Lunita 👩🏻‍💻 Analista de Sistemas y Business Inteligent<br>🔭 Actualmente  buscando oportunidades<br>🌱 Estoy  aprendiendo y  incorporando 🌎Ciencia de Datos<br>⚡ Actualmente  haciendo el Curso  Business Intelligent:<br>       🔶Google Sheeps  y Data Studio📈📊
+✨🌟✨🌟✨🌟🌑🌘🌗🌖🌕🌔🌓🌒🌟✨🌟✨🌟✨🌟✨🌟✨🌟
+<br>
+🪷Hola soy 🙋🏻‍♀️ Lunita 👩🏻‍💻 Analista de Sistemas y Business Inteligent<br>🔭 Actualmente  buscando oportunidades<br>🌱 Estoy  aprendiendo y  incorporando 🌎Ciencia de Datos<br>⚡ Actualmente  haciendo el Curso  Business Intelligent:<br>       🔶Google Sheeps  y Data Studio📈📊
 
 
 # 💻 Tech Stack:
