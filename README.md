@@ -6,8 +6,7 @@
 !![TclLoveGIF](https://github.com/user-attachments/assets/d5436b56-be1c-419a-babc-74f6f3f012f8)
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/yMIZ8kDNzYJGAzXtFQ/giphy.gif" width="150" />
+|  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/yMIZ8kDNzYJGAzXtFQ/giphy.gif" width="150" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/FWJF1HlZMb9VMowLFk/giphy.gif" width="400" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/KyN45QXlS2RtmB9bnA/giphy.gif" width="200" />
 </div>
@@ -39,7 +38,7 @@
   </tr>
 </table>
 
-# <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1ejZ1YmFycHJqZ3Nwbng4cjF3ajB5YjQ3bnJoN3B2Z2l0dmhnbSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/eWc0iGstdzpUOf0ZBG/giphy.gif" width ="40px"> 💻 Tech Stack:
+# <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1ejZ1YmFycHJqZ3Nwbng4cjF3ajB5YjQ3bnJoN3B2Z2l0dmhnbSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/eWc0iGstdzpUOf0ZBG/giphy.gif" width ="40px"> 💻 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDVhaWw0M2R4ZzY4ZnZ4a3Z1OWR3NzFnN3ZnbmlxbzhnZWlobTdkeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8m4gPv1UFz1jmiCtKd/giphy.gif "width ="50px">Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
@@ -104,6 +103,7 @@
 
 
 
- 
+ # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
 
 
