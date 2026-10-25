@@ -1,5 +1,5 @@
-
  ![Fondo del proyecto](https://github.com/lunita2025/lunita2025/blob/ee3a565246d48db493a7cce1d7168e5388d9ce51/Banner%20con%20luna%20(4).png)
+
  <h1 align="center">🌟✨✨✨✨🌙HOLA SOY  LUNITA 🌝.👋✨✨✨✨✨✨✨✨</h1>
 
 <div align="center">
@@ -87,6 +87,10 @@
 
 <br/>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+
+
 ### 🌐 ¡Conéctate conmigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
@@ -95,7 +99,6 @@
 
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
 
 
