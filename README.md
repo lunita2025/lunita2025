@@ -68,7 +68,7 @@
 ![](https://streak-stats.demolab.com/?user=lunita2025&theme=aura&hide_border=false)
 <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lunita2025&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh0c284bnp2dXc3bGlwdml0cnE3N3dteTc0NXlsOTQ0a3MzcHZ4diZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/TGLncdsBmgwVfkJLSc/giphy.gif" align="right" width="250" alt="Imagen">
 <br/>
 
 ### 🛠️ Lenguajes y Herramientas
