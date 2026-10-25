@@ -11,8 +11,9 @@
 <div align="center">  
  !![TclLoveGIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JtYXNzajVzMHZ3NmUwaWQ4YWFpNjRzc3I0YTU5cXExMDM3ZmkweiZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/YrIq06kG5yrtxQEhj3/giphy.gif)
 </div>
+
 <br>
-<img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRudGJ4emN0ZjZtYzZwd3l5N2oxN29jMXFwNzkzemY3aG52azZwZCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/v9mdcwgkst9y8tvTtP/giphy.gif)"  alt="GIF animado">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRudGJ4emN0ZjZtYzZwd3l5N2oxN29jMXFwNzkzemY3aG52azZwZCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/v9mdcwgkst9y8tvTtP/giphy.gif"  align="left" alt="Imagen">
 🪷soy 🙋🏻‍♀️ Lunita 
 👩🏻‍💻 Analista de Sistemas y Business Inteligent<br>🔭 Actualmente  buscando oportunidades<br>🌱 Estoy  aprendiendo y  incorporando 🌎Ciencia de Datos<br>⚡ Actualmente  haciendo el Curso  Business Intelligent:<br>       🔶Google Sheeps  y Data Studio📈📊
 
@@ -49,7 +50,36 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=lunita2025&icon=9&color=10)](https://visitcount.itsvg.in)
+<div align="center">
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=lunita2025&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+![](https://streak-stats.demolab.com/?user=lunita2025&theme=aura&hide_border=false)
+<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lunita2025&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+### 🛠️ Lenguajes y Herramientas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+### 🌐 ¡Conéctate conmigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TU_USUARIO)
+[![Portfolio](https://img.shields.io/badge/Mi_Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://TU_SITIO_WEB.com)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
