@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/FWJF1HlZMb9VMowLFk/giphy.gif" width="400" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/KyN45QXlS2RtmB9bnA/giphy.gif" width="200" />
 </div>
-# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> 
+# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
 # <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp6ZmlwbTl4MWdwdjB3b3JudDBtbGE3dzY4dXk3Mno4YWxtMHdyaCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/IkSSSgxxOhsvzqFiVu/giphy.gif" width="50px">💫 About Me:
 ✨🌟✨🌟✨🌟🌑🌘🌗🌖🌕🌔🌓🌒🌟✨🌟✨🌟✨🌟✨🌟✨🌟
 <div align="center">  
@@ -38,7 +38,8 @@
     </td>
   </tr>
 </table>
-# < img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">💻 Tech Stack:
+
+# <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1ejZ1YmFycHJqZ3Nwbng4cjF3ajB5YjQ3bnJoN3B2Z2l0dmhnbSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/eWc0iGstdzpUOf0ZBG/giphy.gif"> 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
