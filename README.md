@@ -38,8 +38,9 @@
   </tr>
 </table>
 
-# <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1ejZ1YmFycHJqZ3Nwbng4cjF3ajB5YjQ3bnJoN3B2Z2l0dmhnbSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/eWc0iGstdzpUOf0ZBG/giphy.gif" width ="50px"> <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="60px"></img> 
-💻 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDVhaWw0M2R4ZzY4ZnZ4a3Z1OWR3NzFnN3ZnbmlxbzhnZWlobTdkeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8m4gPv1UFz1jmiCtKd/giphy.gif" width ="50px"> Tech Stack:
+# <img src "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V1ejZ1YmFycHJqZ3Nwbng4cjF3ajB5YjQ3bnJoN3B2Z2l0dmhnbSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/eWc0iGstdzpUOf0ZBG/giphy.gif" width ="50px"><img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="60px"></img> 
+💻<imgsrc="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDVhaWw0M2R4ZzY4ZnZ4a3Z1OWR3NzFnN3ZnbmlxbzhnZWlobTdkeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8m4gPv1UFz1jmiCtKd/giphy.gif" width ="50px"> Tech Stack:
+br
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
