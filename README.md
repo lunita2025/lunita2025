@@ -98,8 +98,6 @@
 
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> 
 <br/>
-  <a href='https://profile.codersrank.io/user/itsmeshibintmz/'>
-  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=itsmeshibintmz&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
+ 
 
 
