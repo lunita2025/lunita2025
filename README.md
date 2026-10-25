@@ -5,12 +5,10 @@
 <div align="center">
  !![TclLoveGIF](https://github.com/user-attachments/assets/d5436b56-be1c-419a-babc-74f6f3f012f8)
 </div>
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/yMIZ8kDNzYJGAzXtFQ/giphy.gif
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/FWJF1HlZMb9VMowLFk/giphy.gif
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/KyN45QXlS2RtmB9bnA/giphy.gif
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/yMIZ8kDNzYJGAzXtFQ/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/FWJF1HlZMb9VMowLFk/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/FWJF1HlZMb9VMowLFk/giphy.gif" width="400" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/KyN45QXlS2RtmB9bnA/giphy.gif" width="100" />
 </div>
 # 💫 About Me:
