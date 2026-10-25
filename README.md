@@ -94,10 +94,12 @@
 [![Portfolio](https://img.shields.io/badge/Mi_Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://TU_SITIO_WEB.com)
 
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeshibintmz&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="itsmeshibintmz" /></a> </p>
 
-<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> 
-<br/>
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeshibintmz&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
+
  
 
 
