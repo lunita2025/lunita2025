@@ -1,3 +1,6 @@
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/yMIZ8kDNzYJGAzXtFQ/giphy.gif" width="150" />  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/yMIZ8kDNzYJGAzXtFQ/giphy.gif" width="150" />
+ 
+ 
  ![Fondo del proyecto](https://github.com/lunita2025/lunita2025/blob/ee3a565246d48db493a7cce1d7168e5388d9ce51/Banner%20con%20luna%20(4).png)
 
  <h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGVhaTkyYW5vZ3JlcmdzaWd5d3QxMzcyNDlubGZzaDNmdzdmazRreCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/B2TXGlJUtzOITAGMa1/giphy.gif"  width="100"/>🌟✨✨🌙 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">HOLA SOY  LUNITA 🌝.👋✨✨✨✨✨</h1>
