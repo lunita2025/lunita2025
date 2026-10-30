@@ -1,6 +1,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/yMIZ8kDNzYJGAzXtFQ/giphy.gif" width="150" />  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh2b2RteDJjc20xaDdhY3E3NjM1NTZzc3Fyc2wzaHhnNmR2ZTI0bCZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/yMIZ8kDNzYJGAzXtFQ/giphy.gif" width="150" />
  
-![Fondo del proyecto] (https://github.com/lunita2025/lunita2025/blob/1787a69d3d7886112da0b6f76dc1e123c13224f0/V%C3%ADdeo%20Cargando%20Pixelado%20Animado%20Rosa%20y%20Verde.gif)
+<img src="https://github.com/lunita2025/lunita2025/blob/1787a69d3d7886112da0b6f76dc1e123c13224f0/V%C3%ADdeo%20Cargando%20Pixelado%20Animado%20Rosa%20y%20Verde.gif" />
  
  ![Fondo del proyecto](https://github.com/lunita2025/lunita2025/blob/ee3a565246d48db493a7cce1d7168e5388d9ce51/Banner%20con%20luna%20(4).png)
 
